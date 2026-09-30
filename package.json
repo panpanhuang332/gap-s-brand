@@ -1,0 +1,8 @@
+{
+ "name":"ts-brand-gap-s-presentation",
+ "version":"1.0.0",
+ "private":true,
+ "description":"Offline-first, nine-scene CSS 3D research presentation in Traditional Chinese.",
+ "scripts":{"build":"node build.mjs"},
+ "engines":{"node":">=18"}
+}
